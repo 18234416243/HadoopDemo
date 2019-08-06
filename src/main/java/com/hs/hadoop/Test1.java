@@ -18,6 +18,7 @@ import java.net.URISyntaxException;
 
 public class Test1 {
 
+    //创建文件夹
     @Test
     public void testMkdris() throws IOException, URISyntaxException, InterruptedException {
         // 1 获取文件系统
